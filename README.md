@@ -70,7 +70,6 @@ npm start
 In the second terminal, run the frontend from the project root:
 
 ```powershell
-cd C:\path\to\FishConnect
 npm run dev
 ```
 
