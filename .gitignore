@@ -1,0 +1,13 @@
+*.backup
+fishconnect-backend/uploads/
+.env*
+!.env.example
+!**/.env.example
+node_modules/
+dist/
+.vercel/
+coverage/
+npm-debug.log*
+my-backup/
+.DS_Store
+
